@@ -1,0 +1,9 @@
+venv
+
+.DS_Store
+
+.ipynb_checkpoints
+talkingdata/data
+nslkdd/data
+creditcard/data
+cicids2017/data
