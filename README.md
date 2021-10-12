@@ -1,4 +1,4 @@
-# MLP models
+# MLP models training on security datasets
 
 ## IDS 2017
 
